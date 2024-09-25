@@ -5,7 +5,7 @@ public class task1 {
         double a = 1.0;
         double b = 1.0;
 
-        // Обчислення виразу
+        // Обчислення  виразу
         double result = calculateExpression(a, b);
 
         // Виведення результату

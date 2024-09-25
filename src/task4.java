@@ -12,7 +12,7 @@ public class task4 {
         // Розділяємо текст на слова, ігноруючи розділові знаки
         String[] words = text.split("[\\s\\p{Punct}]+");
 
-        System.out.println("Слова з унікальними буквами:");
+        System.out.println("Слова з унікальними  буквами:");
         for (String word : words) {
             if (hasUniqueLetters(word)) {
                 System.out.println(word);

@@ -27,6 +27,6 @@ public class task3 {
             }
         }
 
-        System.out.println("Найменше значення в стовпці з найбільшою сумою модулів: " + minInMaxSumColumn);
+        System.out.println("Найменше значення в  стовпці з найбільшою сумою модулів: " + minInMaxSumColumn);
     }
 }
